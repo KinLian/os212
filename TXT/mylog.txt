@@ -15,3 +15,11 @@ ZCZC W00 20 L15 Assignment #05
 ZCZC W00 30 L02 Zoom Meeting Week 0 Kamis
 ZCZC W00 40 L06 Reading chapter 1, 2 in Operating System Concepts (Silberschatz)
 ZCZC W00 20 L32 Youtube: OS (Neso Academy)
+ZCZC W01 10 L11 Assignment #01
+ZCZC W01 30 L12 Assignment #02
+ZCZC W01 10 L13 Assignment #03
+ZCZC W01 45 L32 GSGS Linux Command, BASH, Vim command
+ZCZC W01 40 L14 Assignment #04
+ZCZC W01 20 L15 Assignment #05
+ZCZC W01 10 L08 Asking about user.email and user.name
+EOF
