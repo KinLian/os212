@@ -22,3 +22,8 @@ ZCZC W01 45 L32 GSGS Linux Command, BASH, Vim command
 ZCZC W01 40 L14 Assignment #04
 ZCZC W01 20 L15 Assignment #05
 ZCZC W01 10 L08 Asking about user.email and user.name
+ZCZC W01 15 L17 Assignment #07
+ZCZC W01 5 L08 Asking asdos about GitHub commit
+ZCZC W01 20 L18 Assignment #08
+ZCZC W01 15 L32 watching about awk command, Nano 
+ZCZC W01 5 L16 Assignment #06
