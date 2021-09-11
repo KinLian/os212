@@ -2,7 +2,7 @@
 I don't have any reccomendation for now, but i'll tell u some links if i have one
 <br>
 ### Kuliah: 
-- [How to use Nano](https://www.youtube.com/watch?v=ak8c9SfHGWI)
+- [How to use Nano](https://www.youtube.com/watch?v=ak8c9SfHGWI) <br>
 ### Non-Kuliah:
 - [Lagu bagus](https://ristek.link/kabooor)
 - [Danau-danau pemenang nominasi di Bumi](https://en.wikipedia.org/wiki/Lake#Notable_lakes_on_Earth)
