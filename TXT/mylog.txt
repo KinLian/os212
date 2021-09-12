@@ -25,6 +25,7 @@ ZCZC W01 10 L08 Asking about user.email and user.name
 ZCZC W01 15 L17 Assignment #07
 ZCZC W01 5 L08 Asking asdos about GitHub commit
 ZCZC W01 20 L18 Assignment #08
-ZCZC W01 40 L32 watching about AWK command, Nano 
+ZCZC W01 40 L32 Watching about AWK command, Nano 
 ZCZC W01 10 L16 Assignment #06
 ZCZC W01 30 L19 Assignment #09
+ZCZC W01 15 L32 Watching more about awk and sed command
