@@ -36,3 +36,4 @@ ZCZC W02 5 L17 Signing OS Public Key
 ZCZC W02 5 L18 Export my own public key
 ZCZC W02 20 L09 Reviewing 10 links below my github name
 ZCZC W02 5 L09 Writing this log
+ZCZC W02 10 L09 Create by copying myscript.sh and generate SHA256SUM
