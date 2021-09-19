@@ -36,4 +36,11 @@ ZCZC W02 5 L17 Signing OS Public Key
 ZCZC W02 5 L18 Export my own public key
 ZCZC W02 20 L09 Reviewing 10 links below my github name
 ZCZC W02 5 L09 Writing this log
-ZCZC W02 10 L09 Create by copying myscript.sh and generate SHA256SUM
+ZCZC W02 10 L09 Create bash script  by copying myscript.sh and generate SHA256SUM
+ZCZC W02 40 L11 Reading OSC10 Chapter 16 + 17
+ZCZC W02 20 L26 Revisiting C because i've learned it before
+ZCZC W02 20 L19 Searching bookmark link & watch a little bit
+ZCZC W02 30 L12 Trying C Demos in Week02
+ZCZC W02 120 L13 Watching Cyber Security
+ZCZC W02 5 L09 Regenerate SHA256SUM
+ZCZC W02 10 L09 Writing this log
