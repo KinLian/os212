@@ -44,3 +44,19 @@ ZCZC W02 30 L12 Trying C Demos in Week02
 ZCZC W02 120 L13 Watching Cyber Security
 ZCZC W02 5 L09 Regenerate SHA256SUM
 ZCZC W02 10 L09 Writing this log
+ZCZC W03 5 L14 Updating .bash_aliases
+ZCZC W03 30 L15 Adding Virtual Disk
+ZCZC W03 15 L01 Reading all assignment helpdesk to make sure my work is correct
+ZCZC W03 10 L17 Reviewing peer links
+ZCZC W03 10 L18 Writing this log
+ZCZC W03 60 L11 Reading OSC 13-14-15
+ZCZC W03 45 L13 Trying MidTerm Problems
+ZCZC W03 40 L12 Trying all Demos (FUSE & C)
+ZCZC W03 5 L01 Reading assignment helpdesk to search my problem
+ZCZC W03 10 L08 Asking about lynx (Assignment 2 related)
+ZCZC W03 20 L16 Adding links
+ZCZC W03 10 L32 Watching my own recommended link
+ZCZC W03 15 L06 Reading my own recommended link
+ZCZC W03 10 L18 Writing this log
+ZCZC W03 5 L19 Submit this assignment
+ZCZC W03 20 L99 Thinking about other course assignment :(
