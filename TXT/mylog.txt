@@ -60,3 +60,14 @@ ZCZC W03 15 L06 Reading my own recommended link
 ZCZC W03 10 L18 Writing this log
 ZCZC W03 5 L19 Submit this assignment
 ZCZC W03 20 L99 Thinking about other course assignment :(
+ZCZC W04 15 L14 Installing TLPI, somehow long install
+ZCZC W04 30 L15 Working on WEEK04 tar something
+ZCZC W04 10 L01 Reading all assignment helpdesk about this week
+ZCZC W04 45 L11 Reading OSC10 Chapter 9
+ZCZC W04 20 L12 Trying some demos
+ZCZC W04 30 L13 Trying MidTerm Problem
+ZCZC W04 30 L16 Create my bookmark links
+ZCZC W04 40 L32 Watching my recommended links
+ZCZC W04 30 L17 Reviewing other people's links
+ZCZC W04 10 L18 Creating my log 
+ZCZC W04 5 L19 Submitting this assignment
