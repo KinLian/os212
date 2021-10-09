@@ -14,6 +14,8 @@ I don't have any reccomendation for now, but i'll tell u some links if i have on
 - [Drive Partition](https://www.youtube.com/watch?v=AeUM4kR67XQ) Linus Sebastian from LinusTechTips explaining in this vid :D Just watch it hehe
 - [Pointers in C](https://www.youtube.com/watch?v=mw1qsMieK5c) Gary Explains explaining pointers and its basic
 - [Pointers and Memory - Stack vs Heap](https://www.youtube.com/watch?v=_8-ht2AKyH4) I'm actually confused about this vid but good vid
+- [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) Geeksforgeeks article explaining about Virtual Memory, not so long read
+- [What is Virtual Memory](https://www.youtube.com/watch?v=2quKyPnUShQ) Gary Explains (in AA) explaining virtual memory, good vid as usual
 
 ## Non-Kuliah:
 - [Lagu bagus](https://ristek.link/kabooor)

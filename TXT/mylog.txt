@@ -71,3 +71,17 @@ ZCZC W04 40 L32 Watching my recommended links
 ZCZC W04 30 L17 Reviewing other people's links
 ZCZC W04 10 L18 Creating my log 
 ZCZC W04 5 L19 Submitting this assignment
+ZCZC W05 10 L14 Searching lowest memory i can get
+ZCZC W05 30 L14 Doing assignment 4
+ZCZC W05 30 L14 Retrying assignment 4 because i'm doing some mistakes
+ZCZC W05 20 L17 Reviewing peer links
+ZCZC W05 5 L18 Writing this log
+ZCZC W05 45 L11 Reading OSC10 Chapter 10
+ZCZC W05 30 L13 Trying midterm problem
+ZCZC W05 10 L12 Trying some demos
+ZCZC W05 10 L15 Searching bookmark links
+ZCZC W05 10 L06 Reading my recommended link
+ZCZC W05 15 L32 Watching my recommended link
+ZCZC W05 10 L16 Giving some tips
+ZCZC W05 5 L18 Writing this log
+ZCZC W05 5 L19 Submitting this assignment
