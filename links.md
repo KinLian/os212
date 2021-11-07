@@ -18,7 +18,12 @@ I don't have any reccomendation for now, but i'll tell u some links if i have on
 - [What is Virtual Memory](https://www.youtube.com/watch?v=2quKyPnUShQ) Gary Explains (in AA) explaining virtual memory, good vid as usual
 - [Introduction to Threads](https://www.youtube.com/watch?v=LOfGJcVnvAk) Neso academy explaining details about thread, good vid
 - [Interprocess Communication](https://www.youtube.com/watch?v=dJuYKfR8vec) Neso academy (again) explaining IPC in 13 minutes
+- [Introduction to Deadlock](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) GeeksforGeeks article (?) explaining deadlock, even with video!
+- [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y) Neso academy video explaining synchronization in a good way, 20 minutes video
 
 ## Non-Kuliah:
 - [Lagu bagus](https://ristek.link/kabooor)
 - [Danau-danau pemenang nominasi di Bumi](https://en.wikipedia.org/wiki/Lake#Notable_lakes_on_Earth)
+- [Menghandle stress biar kalian tidak seperti saya yang kena mental](https://www.youtube.com/watch?v=zDlz5N6DXuE)
+- [Pesawat komersial favorit](https://en.wikipedia.org/wiki/Airbus_A350)
+- [Pesawat tempur favorit](https://en.wikipedia.org/wiki/McDonnell_Douglas_F-15E_Strike_Eagle)
