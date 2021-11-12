@@ -112,3 +112,19 @@ ZCZC W07 10 L12 Trying demos as fast as i can
 ZCZC W07 30 L13 Trying previous mid problem
 ZCZC W07 10 L18 Writing this log
 ZCZC W07 5 L19 Submitting this assignment
+ZCZC W08 10 L10 Doing Week08 contact
+ZCZC W08 50 L14 Linux from Scratch 1-4
+ZCZC W08 30 L15 Linux from Scratch 5
+ZCZC W08 15 L01 Asking questions in discord
+ZCZC W08 180 L06 Finding damn bugs about gcc error compile
+ZCZC W08 60 L15 Retrying Linux from Scratch 5
+ZCZC W08 10 L64 Helping my buddy on assignment helpdesk (same error as mine)
+ZCZC W08 10 L16 Searching recommended links
+ZCZC W08 5 L06 Skimming my recommended link
+ZCZC W08 10 L32 Only watching first video of my link
+ZCZC W08 10 L18 Reviewing other people's links
+ZCZC W08 10 L11 Skimming OSC10 Chapter 5
+ZCZC W08 10 L12 Skimming demos
+ZCZC W08 5 L13 Only skimming some problems
+ZCZC W08 15 L19 Writing this (possibly) final log :u
+ZCZC W08 5 L10 Submitting this task
