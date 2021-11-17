@@ -128,3 +128,16 @@ ZCZC W08 10 L12 Skimming demos
 ZCZC W08 5 L13 Only skimming some problems
 ZCZC W08 15 L19 Writing this (possibly) final log :u
 ZCZC W08 5 L10 Submitting this task
+ZCZC W09 120 L14 LFS Chapter 6-7
+ZCZC W09 45 L14 Retrying chapter 7 because i made a mistake
+ZCZC W09 120 L14 Backuping my LFS twice (i restarted the first one cuz its so long)
+ZCZC W09 10 L01 Reading assignment helpdesk in discord
+ZCZC W09 15 L15 Filling my recommended links
+ZCZC W09 10 L32 Watching my recommended link
+ZCZC W09 10 L06 Reading my recommended link
+ZCZC W09 10 L17 Reviewing my peer links
+ZCZC W09 30 L11 Reading OSC Chapter 11
+ZCZC W09 15 L12 Trying demos
+ZCZC W09 15 L13 Only trying some FinalTerm problems
+ZCZC W09 10 L18 Writing this log
+ZCZC W09 2 L19 Submitting this assignment

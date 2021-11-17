@@ -22,6 +22,8 @@ I don't have any reccomendation for now, but i'll tell u some links if i have on
 - [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y) Neso academy video explaining synchronization in a good way, 20 minutes video
 - [CPU Scheduling course note](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/5_CPU_Scheduling.html) Look! CS UI(C) note about CPU Scheduling, only explaining some points of material
 - [CPU Scheduling Algorithm](https://www.youtube.com/watch?v=AiVKIdGheEU&list=PLIY8eNdw5tW_lHyageTADFKBt9weJXndE) Youtube playlist about CPU Scheduling, yes, its indian guy on youtube
+- [RAID in Operating System](https://www.youtube.com/watch?v=BZE4cIm23Js) Short video explaining about RAID Systems
+- [Mass-Storage Structure](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html) Some kind of summary about chapter of Silberschatz book (yes, our book)
 
 ## Non-Kuliah:
 - [Lagu bagus](https://ristek.link/kabooor)
